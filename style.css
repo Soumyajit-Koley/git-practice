@@ -1,0 +1,215 @@
+* {
+    background-color: transparent;
+    margin: 0;
+    padding: 0;
+}
+
+.header {
+    background-color: #0077fff0;
+    color: aliceblue;
+    border-bottom: solid black 2px;
+}
+
+.logoimg {
+    display: inline-block;
+}
+
+.heading {
+    display: inline-block;
+   
+}
+
+
+
+.top {
+    text-align: center;
+    font-size: 30px;
+    box-sizing: border-box;
+
+}
+
+.bottom {
+    text-align: center;
+    font-size: 15px;
+    box-sizing: border-box;
+}
+
+.navBar {
+    background-color: rgb(93, 179, 255);
+    text-decoration: none;
+}
+
+main {
+    border-top: solid black 3px;
+
+}
+
+/* .mainimg{
+    height: 7px;
+} */
+
+.mainimg {
+    width: 45%;
+    display: inline-block;
+
+    /* background-image: no-repeat url("image/school.jpg") fixed; */
+}
+
+.ats {
+    background-color: rgba(216, 254, 255, 0.972);
+    width: 50%;
+}
+
+.txt {
+    box-sizing: border-box;
+    border: solid 2px black;
+    padding: 2px;
+    display: inline-block;
+}
+
+
+
+
+
+
+
+
+
+.footer {
+    background-color: #02346c;
+    color: aliceblue;
+    border-top: solid rgba(0, 0, 0, 0.938) 3px;
+}
+
+.hhg {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: rgb(181, 195, 222);
+    font-size: 25px;
+
+}
+
+.address {
+    width: 300px;
+    display: inline-block;
+    box-sizing: border-box;
+}
+
+.adsj {
+    margin: 2px;
+    padding: 2px;
+    font-weight: bold;
+    font-size: 18px;
+}
+
+
+.comn {
+    width: 300px;
+    display: inline-block;
+    box-sizing: border-box;
+}
+
+.wpimg {
+    display: inline-block;
+}
+
+.wpt {
+    display: inline-block;
+}
+
+.igimg {
+    display: inline-block;
+}
+
+.igt {
+    display: inline-block;
+}
+
+.fbimg {
+    display: inline-block;
+}
+
+.fblt {
+    color: aliceblue;
+    text-decoration: none;
+    display: inline-block;
+}
+
+.ytimg {
+    display: inline-block;
+}
+
+.ytt {
+    display: inline-block;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* .pic {
+    position: center;
+    height: auto;
+    width: max-content;
+} */
+/* .navBar ul li { 
+    display: inline-block;
+} */
